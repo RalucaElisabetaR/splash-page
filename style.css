@@ -51,3 +51,13 @@ body {
     font-size: 20px;
     line-height: 32px;
 }
+.app-store-btn {
+    position: absolute;
+
+    left: 221px;
+    top: 531px;
+}
+.app-store-btn img {
+    width: 138.44px;
+    height: 46.28px;
+}
