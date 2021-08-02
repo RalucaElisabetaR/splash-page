@@ -3,9 +3,9 @@
 html {
     box-sizing: border-box;
 }
-
 body {
     margin: 0;
+
     overflow-x: hidden;
     font-family: Lato, sans-serif;
     color: #54575a;
@@ -19,7 +19,7 @@ body {
 .wrapper {
     position: relative;
     width: 1440px;
-    min-height: 100vh;
+    height: 1379px;
     margin: auto;
 }
 .brand-img {
@@ -80,4 +80,41 @@ body {
 
 .main-image-container img {
     height: 411.15px;
+}
+.profile-img {
+    position: absolute;
+    height: 444px;
+    left: 737px;
+    right: 479px;
+    top: 686px;
+}
+.orders-img {
+    position: absolute;
+    height: 470px;
+    left: 479px;
+    right: 737px;
+    top: 913px;
+}
+
+.cart-img {
+    position: absolute;
+    height: 222px;
+    left: 221px;
+    right: 995px;
+    top: 1157px;
+}
+
+.home-img {
+    position: absolute;
+    height: 470px;
+    left: 995px;
+    right: 221px;
+    top: 908px;
+}
+.product-img {
+    position: absolute;
+    height: 222px;
+    left: 737px;
+    right: 479px;
+    top: 1157px;
 }
